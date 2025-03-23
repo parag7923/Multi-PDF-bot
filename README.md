@@ -1,11 +1,11 @@
 # Multi-PDF-bot
 
-Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Running the Application
+
+Install dependencies:
+```bash
+    pip install -r requirements.txt
+```
 
 Start the application using Streamlit:
 ```bash
